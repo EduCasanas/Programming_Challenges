@@ -1,9 +1,11 @@
 /*
-Write a program that displays on the console (using print) the numbers from
-1 to 100 (including both). If the number is multiple of 3 replace with the word
-"fizz". If it's multiple of 5 with the word "buzz". And finally if it's multiple
-of both 3 and 5 with the word "fizzbuzz".
-*/
+ * Escribe un programa que muestre por consola (con un print) los
+ * números de 1 a 100 (ambos incluidos y con un salto de línea entre
+ * cada impresión), sustituyendo los siguientes:
+ * - Múltiplos de 3 por la palabra "fizz".
+ * - Múltiplos de 5 por la palabra "buzz".
+ * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+ */
 
 ///Using a for loop
 
